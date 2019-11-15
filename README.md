@@ -1,4 +1,4 @@
-# Personal Galery
+# Personal Gallery
 is my highschool project created in 2015.
 It provides cloud storage for user's pictures. Users can organized their pictures into albums aka folders.
 
