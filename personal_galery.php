@@ -176,7 +176,7 @@ does not exist.";
 	$vyborne_vas_ucet_byl_vytvoren1_lang="well!";
 	$vyborne_vas_ucet_byl_vytvoren2_lang="Your acount have been created.";
 }
-$conn = mysqli_connect("localhost", "adminroot", "rootadmin", "registrace2");
+$conn = mysqli_connect("localhost", "***", "***", "***");
 $formok2=true;
 $spravne_jmenoprihlaseni=true;
 $spravne_hesloprihlaseni=true;
